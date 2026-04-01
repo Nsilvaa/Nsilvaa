@@ -1,4 +1,4 @@
-# Olá, eu sou Rafael
+# Olá, eu sou Natanael
 - 👨🏿‍🏫 Atualmente trabalho como Jovem Aprendiz na G4F
 - 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, WordPress, PHP, Java, Python e Banco de Dados
 - 📽️ Procuro colaborar e evoluir no desenvolvimento de projetos
