@@ -1,6 +1,6 @@
 # Olá, eu sou Natanael
 - 👨🏿‍🏫 Atualmente trabalho como Jovem Aprendiz na G4F
-- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, WordPress, PHP, Java, Python e Banco de Dados
+- 🧑🏿‍💻 Trabalho com Figma, Desenvolvimento Front-End, WordPress, PHP, Python e Banco de Dados
 - 📽️ Procuro colaborar e evoluir no desenvolvimento de projetos
 
  <div style="display: inline_block">
@@ -9,7 +9,6 @@
   <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Natan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-   <img align="center" alt="Natan-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Natan-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
   </div>
   
