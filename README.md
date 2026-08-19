@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hamzaoui%20Amine&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-Me chamo Natanael e sou auxiliar de programação computacional pela G4F e estou cursando Análise e Desenvolvimento de Sistemas no Senac - DF
+sou o Natanael, auxiliar de programação computacional pela G4F e estou cursando Análise e Desenvolvimento de Sistemas no Senac - DF
 
 💡 *“A motivação faz você começar, o hábito faz você continuar.”*
 
