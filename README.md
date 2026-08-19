@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hamzaoui%20Amine&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
-
-sou o Natanael, auxiliar de programação computacional pela G4F e estou cursando Análise e Desenvolvimento de Sistemas no Senac - DF
+Meu nome é Natanael sou auxiliar de programação computacional pela G4F e estou cursando Análise e Desenvolvimento de Sistemas no Senac - DF
 
 💡 *“A motivação faz você começar, o hábito faz você continuar.”*
 
@@ -15,29 +13,14 @@ sou o Natanael, auxiliar de programação computacional pela G4F e estou cursand
 ### 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:aminehamzaoui1926@gmail.com">
+  <a href="mailto:nsilvadesouza23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b">
+  <a href="https://www.linkedin.com/in/natanael-silva-de-souza-5213773b7/">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
-  <a href="https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==">
+  <a href="https://www.instagram.com/_natan_silvaa_?igsh=MWY0M3hmMXd0OGxqNw==">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.facebook.com/share/1EZqQrtBKf/">
-    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
-  </a>
-  <a href="https://discord.com/users/805123459566010417">
-    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Saboo24">
-    <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/Saboo24">
-    <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p>
 
@@ -46,7 +29,7 @@ sou o Natanael, auxiliar de programação computacional pela G4F e estou cursand
 ### 🧠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,html,css,react&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,php" />
   </a>
 </p>
 
@@ -55,7 +38,7 @@ sou o Natanael, auxiliar de programação computacional pela G4F e estou cursand
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,unity&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma," />
   </a>
 </p>
 
@@ -65,27 +48,7 @@ sou o Natanael, auxiliar de programação computacional pela G4F e estou cursand
 
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saboo24&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
 <img src="https://streak-stats.demolab.com?user=Saboo24&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
-
----
-
-### 🧩 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saboo24&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
-
----
-
-## 🏆 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Saboo24&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
-</p>
 
 ---
 
